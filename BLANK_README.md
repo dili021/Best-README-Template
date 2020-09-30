@@ -156,7 +156,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@dilistefan](https://twitter.com/dilistefan) - stefan.dili.021@gmail.com
+[@dilistefan](https://twitter.com/dilistefan) / stefan.dili.021@gmail.com
 
 Project Link: [https://github.com/dili021/Best-README-Template](https://github.com/dili021/Best-README-Template)
 
